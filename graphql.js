@@ -3,6 +3,7 @@
  * @since 2022/07/12
  */
 const axios = require('axios');
+
 const common = require('./common/common')
 
 // The root provides a resolver function for each API endpoint
