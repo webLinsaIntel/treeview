@@ -2,6 +2,7 @@ const db = require("./database");
 /**
  * @description common functions definition
  */
+
 const Common = {
     //check API key
     checkAuth : async (token) => {
